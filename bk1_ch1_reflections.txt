@@ -1,0 +1,25 @@
+What is the difference between a statement and an expression? Give an example of each.
+
+    A statement is a group of words, numbers, and operators that performs a specific task. a = b + 2;
+
+    An expression is the values and variables that make up a statement. a , b + 2
+
+What are types in JavaScript? What is coercion?
+
+    Types are the kinds of values such as string, number, and boolean. Coercion is changing a type (coercing a string to a number.)
+
+Write an example of a variable assignment. Does JavaScript use static or dynamic typing?
+
+    var a = 1; Dynamic typing.
+
+What is a block? What is the purpose of blocks?
+
+    Code between {}. Blocks group a series of statements together.
+
+What is the purpose of loops?
+
+    Loops repeat code until a condition fails.
+
+What is the purpose of functions?
+
+    Functions are reusable. When you have a task that needs to happen more than once, a function allows that task to be written once, called multiple times. Functions also provide a means to organize your code. 
