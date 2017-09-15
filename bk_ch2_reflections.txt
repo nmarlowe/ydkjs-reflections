@@ -1,0 +1,38 @@
+*** Values and types ***
+
+values have types, variables do not.
+
+Types: string, number, boolean, null, undefined, object, symbol.
+
+*** Objects ***
+
+Object = compound value with properties (named location) that each hold their own values
+
+Property access = dot notation (obj.a , preferred when possible) or bracket notation (obj["a!"] , property name has special characters, requires variable or string literal, known as keys)
+
+*** Arrays ***
+
+More like a subtype of the object type.
+
+Not named properties/keys, but numerically indexed.
+
+*** Functions ***
+
+Subtype of objects.
+
+*** Built-in Type Methods ***
+
+Built-in types and subtypes have behaviors (properties and methods.)
+
+a.length, a.toUpperCase
+
+*** Coercion ***
+
+Explicit - The code (the programmer) converts type
+
+Implicit - The engine converts type
+
+*** Equality ***
+
+== checks value
+=== checks value and type
